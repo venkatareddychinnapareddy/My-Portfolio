@@ -1073,3 +1073,19 @@ section {
     padding-right: 20px 15px;
   }
 }
+.btn-color{
+  color: white;
+}
+.btn-bc{
+  background-color: #149ddd;
+  border: none;
+}
+a:hover{
+  color:white;
+}
+.contact .info .profile .social-links-me a:hover i{
+  
+  background-color: #149ddd;
+  color:white;
+}
+
